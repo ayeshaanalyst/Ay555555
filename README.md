@@ -1,6 +1,6 @@
 - Hi, I’m Ayesha Sadiqua.
 - I am a data analyst.
-- I’m currently wotking on some projects .
+- I’m currently wotking as a data analyst.
 - You can contact me by this email discusswithayesha@gmail.com
 
 <!---
